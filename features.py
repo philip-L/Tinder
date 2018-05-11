@@ -10,8 +10,10 @@ import tinder_api as api
 
 
 '''
-This file collects important data on your matches,
-allows you to sort them by last_activity_date, age,
+This file includes functions using api calls and collecting
+the returned data into usable forms. For example,
+important data on your matches, which allows you 
+to sort them by last_activity_date, age,
 gender, message count, and their average successRate.
 '''
 
