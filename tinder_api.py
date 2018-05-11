@@ -4,6 +4,8 @@ import json
 import config
 import requests
 
+'''functions for api calls'''
+
 headers = {
     'app_version': '6.9.4',
     'platform': 'ios',
