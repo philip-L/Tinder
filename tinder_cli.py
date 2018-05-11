@@ -1,4 +1,4 @@
-'''This is the command line interface for tinder with auto swiping, messaging and location change'''
+'''This is the command line interface for tinder with auto swiping, messaging (commented out) run in terminal like "python tinder_cli.py" '''
 
 import features as tinder
 import tinder_api as api
